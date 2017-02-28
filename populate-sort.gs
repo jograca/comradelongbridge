@@ -1,7 +1,7 @@
 // Written by JPG
 // https://github.com/jograca/comradelongbridge
 // These 2 javascript functions are run in Google Apps Script (.gs)
-// View the README for more information on how they function in the overall workflow
+// View the README.md for more information on how they function in the overall workflow
 
 function onEdit() {
 
