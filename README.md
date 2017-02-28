@@ -1,6 +1,6 @@
 # comradelongbridge
 Glory to Workers!
+This is a description of how comradelongbridge.com automation works.
 
-Coming soon ... full description of how comradelongbridge.com works
+Work is still in progress, Comrade!
 
-Return soon Comrade!
