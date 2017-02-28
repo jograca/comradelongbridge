@@ -1,3 +1,7 @@
+// Written by JPG
+// These 2 javascript functions are run in Google Sheets (.gs)
+// View README for more information on how they function in the overall workflow
+
 function onEdit() {
 
   // When a new row is added to the Worksheet "Data from IFTTT"
