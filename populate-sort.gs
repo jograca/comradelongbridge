@@ -1,6 +1,7 @@
 // Written by JPG
+// https://github.com/jograca/comradelongbridge
 // These 2 javascript functions are run in Google Sheets (.gs)
-// View README for more information on how they function in the overall workflow
+// View README on github for more information on how they function in the overall workflow
 
 function onEdit() {
 
