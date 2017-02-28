@@ -1,0 +1,1 @@
+=HOUR(J2) * 3600 + MINUTE(J2) * 60 + SECOND(J2)
