@@ -1,0 +1,2 @@
+Example:
+=SUMIFs('Data from IFTTT'!E:E, 'Data from IFTTT'!G:G, "3", 'Data from IFTTT'!H:H, "6", 'Data from IFTTT'!F:F, "Jess")
