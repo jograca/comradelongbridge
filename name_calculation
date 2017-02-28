@@ -1,0 +1,11 @@
+=IF(B2 = "REDACTED", "Boner", 
+ IF(B2 = "REDACTED", "Spoon", 
+ IF(B2 = "REDACTED" , "Spoon" ,
+ IF(B2 = "REDACTED", "Centerfold",
+ IF(B2 = "REDACTED" , "Centerfold", 
+ IF(B2 = "REDACTED", "Dan", 
+ IF(B2 = "REDACTED", "Anna", 
+ IF(B2 = "REDACTED", "Jess", 
+ IF(B2 = "REDACTED", "Suavohue", 
+ IF(B2 = "REDACTED", "Camel of Corvallis", 
+ IF(B2 = "REDACTED", "Chuckles", "ERROR!")))))))))))
