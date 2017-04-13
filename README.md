@@ -19,11 +19,6 @@ USER WORKFLOW:
 
 IFTTT GOOGLE SHEETS APPLET:
 
-<<<<<<< HEAD
-Comradelongbridge utilizes an IFTTT workflow to update a google docs spreadsheet with updates on scores provided by email.
-
-=======
->>>>>>> master
 IFTTT GOOGLE TWITTER APPLET:
 
 GOOGLE SHEETS - INTEGRATION WITH IFTTT:
@@ -37,7 +32,3 @@ GOOGLE SHEETS - JAVASCRIPT:
 PLATFORM:
 
 comradelongbridge receives so little traffic that it is able to run on a single t2.nano AWS EC2 instance in a region close to its user base. The EC2 instance runs a LAMP stack with a drupal installation to feed user content. Pages are served as iframes referencing google sheets.
-<<<<<<< HEAD
-=======
-
->>>>>>> master
