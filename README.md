@@ -4,7 +4,7 @@ README.md
 
   With that out of the way:
 
-GLORY TO WORKERS! GLORY TO CONCRETE!
+GLORY TO WORKERS! GLORY TO CONCRETE!!
 
   This is a description of how comradelongbridge.com automation works.
   Work on this README is still in progress as of April 14th 2017.
