@@ -19,6 +19,7 @@ USER WORKFLOW:
   2) Share button selected
   3) Email selected as option
   4) Administer's email inserted into a new email and sent
+  5) Profit
 
 IFTTT GOOGLE SHEETS APPLET:
 
