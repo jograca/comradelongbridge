@@ -1,12 +1,1 @@
-=IF(B2 = "comradelongbridge@gmail.com", "Boner",
- IF(B2 = "mark.santoski@gmail.com", "Spoon",
- IF(B2 = "marksantoski@gmail.com" , "Spoon" ,
- IF(B2 = "jon.graca@gmail.com", "Centerfold",
- IF(B2 = "jon.graca@libertymutual.com" , "Centerfold",
- IF(B2 = "dpacifico89@gmail.com", "Dan",
- IF(B2 = "anna.bruning@gmail.com", "Anna",
- IF(B2 = "jesswikle@gmail.com", "Jess",
- IF(B2 = "jdonohue1@gmail.com", "Suavohue",
- IF(B2 = "abe.haslett@gmail.com", "Abe",
- IF(B2 = "matthglenn@gmail.com", "The Captain",
- IF(B2 = "maggiecwal@gmail.com", "Chuckles", "ERROR!"))))))))))))
+REDACTED. Contains emails
